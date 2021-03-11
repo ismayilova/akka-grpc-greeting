@@ -1,0 +1,6 @@
+[debug] Copy resource mappings: 
+[debug] 	(C:\RMS\akka-grpc-quickstart-scala\src\main\protobuf\helloworld.proto,C:\RMS\akka-grpc-quickstart-scala\target\scala-2.13\classes\helloworld.proto)
+[debug] 	(C:\RMS\akka-grpc-quickstart-scala\src\main\resources\application.conf,C:\RMS\akka-grpc-quickstart-scala\target\scala-2.13\classes\application.conf)
+[debug] 	(C:\RMS\akka-grpc-quickstart-scala\src\main\resources\certs\ca.pem,C:\RMS\akka-grpc-quickstart-scala\target\scala-2.13\classes\certs\ca.pem)
+[debug] 	(C:\RMS\akka-grpc-quickstart-scala\src\main\resources\certs\server1.key,C:\RMS\akka-grpc-quickstart-scala\target\scala-2.13\classes\certs\server1.key)
+[debug] 	(C:\RMS\akka-grpc-quickstart-scala\src\main\resources\certs\server1.pem,C:\RMS\akka-grpc-quickstart-scala\target\scala-2.13\classes\certs\server1.pem)

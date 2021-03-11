@@ -1,0 +1,9 @@
+[debug] > Exec(run, None, None)
+[debug] Evaluating tasks: Compile / run
+[debug] Running task... Cancel: Signal, check cycles: false, forcegc: true
+[info] compiling 9 Scala sources and 1 Java source to C:\RMS\akka-grpc-quickstart-scala\target\scala-2.13\classes ...
+[info] Non-compiled module 'compiler-bridge_2.13' for Scala 2.13.2. Compiling...
+[info]   Compilation completed in 20.772s.
+[warn] 1 deprecation (since 10.2.0); re-run with -deprecation for details
+[warn] one warning found
+[info] done compiling

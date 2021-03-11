@@ -1,0 +1,14 @@
+[0m[[0m[0mdebug[0m] [0m[0m> Exec(run, Some(85896183-271a-4a27-bc04-c20de32a96ef), Some(CommandSource(console0)))[0m
+[0m[[0m[0mdebug[0m] [0m[0mEvaluating tasks: Compile / run[0m
+[0m[[0m[0mdebug[0m] [0m[0mRunning task... Cancel: Signal, check cycles: false, forcegc: true[0m
+[0m[[0m[0minfo[0m] [0m[0mCompiling 1 protobuf files to C:\RMS\akka-grpc-quickstart-scala\target\scala-2.13\akka-grpc\main[0m
+[0m[[0m[0minfo[0m] [0m[0mCompiling schema C:\RMS\akka-grpc-quickstart-scala\src\main\protobuf\helloworld.proto[0m
+[0m[[0m[0minfo[0m] [0m[0mGenerating Akka gRPC service interface for com.example.helloworld.GreeterService[0m
+[0m[[0m[0minfo[0m] [0m[0mGenerating Akka gRPC client for com.example.helloworld.GreeterService[0m
+[0m[[0m[0minfo[0m] [0m[0mGenerating Akka gRPC service handler for com.example.helloworld.GreeterService[0m
+[0m[[0m[0minfo[0m] [0m[0mcompiling 9 Scala sources and 1 Java source to C:\RMS\akka-grpc-quickstart-scala\target\scala-2.13\classes ...[0m
+[0m[[0m[0minfo[0m] [0m[0mNon-compiled module 'compiler-bridge_2.13' for Scala 2.13.2. Compiling...[0m
+[0m[[0m[0minfo[0m] [0m[0m  Compilation completed in 19.487s.[0m
+[0m[[0m[33mwarn[0m] [0m[0m1 deprecation (since 10.2.0); re-run with -deprecation for details[0m
+[0m[[0m[33mwarn[0m] [0m[0mone warning found[0m
+[0m[[0m[33mwarn[0m] [0m[0mIn the last 2075 seconds, 12.894 (0,6%) were spent in GC. [Heap: 0,84GB free of 0,95GB, max 0,95GB] Consider increasing the JVM heap using `-Xmx` or try a different collector, e.g. `-XX:+UseG1GC`, for better performance.[0m

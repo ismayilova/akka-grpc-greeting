@@ -1,0 +1,3 @@
+[0m[[0m[0minfo[0m] [0m[0mCompiling 1 protobuf files to C:\RMS\akka-grpc-quickstart-scala\target\scala-2.13\akka-grpc\main[0m
+[0m[[0m[0mdebug[0m] [0m[0mprotoc options:[0m
+[0m[[0m[0minfo[0m] [0m[0mCompiling schema C:\RMS\akka-grpc-quickstart-scala\src\main\protobuf\helloworld.proto[0m
